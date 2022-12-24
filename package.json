@@ -1,0 +1,11 @@
+{
+  "name": "word-jumblr",
+  "version": "1.0.1",
+  "description": "a tool to jumble words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ved Jain",
+  "license": "ISC"
+}
