@@ -1,6 +1,6 @@
 {
   "name": "word-jumblr",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "a tool to jumble words",
   "main": "index.js",
   "scripts": {
